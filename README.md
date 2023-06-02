@@ -1,2 +1,2 @@
 # LipReadingAI
-End-to-End Lip Reading built using Tensorflow
+End-to-End Lip Reading Model built using Tensorflow
