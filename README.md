@@ -10,13 +10,15 @@ Lip reading is the process of understanding spoken language by observing the mov
 
 This lip reading model utilizes deep learning algorithms to analyze video input and converts the observed lip movements into text transcriptions.
 
-# Model Architecture
-This model architecture combines Conv3D, LSTM, Dense and Time Distributed layers to process lip image sequences and perform lip reading tasks.
-
 # Dataset
 The lip reading model is trained on an extract of the GRID dataset,     which contains videos of a speaker and their aligned transcriptions. 
 
-# Example
-![In the three second clip, the speaker lip reads  the words "Bin Blue at F Two Now"](./screenshots/bbaf2n.png)
+# Model Architecture
+This model architecture combines Conv3D, LSTM, Dense and Time Distributed layers to process lip image sequences and perform lip reading tasks.
 
+# Result:
+**Example:**
+In this three second clip ,the speaker mouths the words "Bin Blue at F Two Now"
+
+![Screenshot](./screenshots/bbaf2n.png)
 
