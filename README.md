@@ -17,6 +17,6 @@ This model architecture combines Conv3D, LSTM, Dense and Time Distributed layers
 The lip reading model is trained on an extract of the GRID dataset,     which contains videos of a speaker and their aligned transcriptions. 
 
 # Example
-![](./screenshots/bbaf2n.png)
+![In the three second clip, the speaker lip reads  the words "Bin Blue at F Two Now"](./screenshots/bbaf2n.png)
 
 
