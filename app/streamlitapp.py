@@ -12,10 +12,10 @@ st.set_page_config(layout='wide')
 #Sidebar
 with st.sidebar:
     st.image('https://www.onepointltd.com/wp-content/uploads/2020/03/inno2.png')
-    st.title('LipBuddy')
+    st.title('LipReadingAI')
     st.info('This application is originally developed from LipNet deep learning model')
 
-st.title("LipNet Fullstack App")
+st.title("LipReadingAI")
 #plugin for webcam here
 options=os.listdir(os.path.join('..','data','s1'))
 selected_video=st.selectbox('Choose video',options)
