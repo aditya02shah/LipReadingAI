@@ -16,7 +16,7 @@ The lip reading model is trained on an extract of the GRID dataset,     which co
 # Model Architecture
 This model architecture combines Conv3D, LSTM, Dense and Time Distributed layers to process lip image sequences and perform lip reading tasks.
 
-# Result:
+# Result
 **Example:**
 In this three second clip ,the speaker mouths the words "Bin Blue at F Two Now"
 
